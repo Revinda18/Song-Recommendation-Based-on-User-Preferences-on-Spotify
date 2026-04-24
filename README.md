@@ -40,7 +40,7 @@ Model digunakan untuk memprediksi apakah pengguna akan menyukai sebuah lagu berd
 ---
 
 ## 🚀 Demo Online
-👉 [(Dahsboard Spotify)](http://localhost:8502)
+👉 [(Dahsboard Spotify)]( https://ripeness-oblivious-trustable.ngrok-free.dev)
 
 ---
 
