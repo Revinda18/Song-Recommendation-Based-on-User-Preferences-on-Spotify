@@ -40,7 +40,7 @@ Model digunakan untuk memprediksi apakah pengguna akan menyukai sebuah lagu berd
 ---
 
 ## 🚀 Demo Online
-👉 [(Dahsboard Spotify)]([https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link](http://localhost:8502))
+👉 [(Dahsboard Spotify)](http://localhost:8502)
 
 ---
 
