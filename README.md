@@ -64,7 +64,7 @@ Dashboard interaktif berbasis **Machine Learning** untuk:
 ---
 
 ## 📸 Tampilan Dashboard
-![Dashboard Screenshot](images/dashboard.png)
+![Feature Importance](img/feature importance.png)
 
 ---
 
