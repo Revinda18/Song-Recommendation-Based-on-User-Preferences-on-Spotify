@@ -31,6 +31,18 @@ Model digunakan untuk memprediksi apakah pengguna akan menyukai sebuah lagu berd
 - Matplotlib  
 
 ---
+## 📸 Tampilan Dashboard
+![Overview Dashboard](img/overview.png)
+![Prediksi Kesukaan](img/prediksi_kesukaan.png)
+![Rekomendasi Lagu](img/rekomendasi_lagi.png)
+![Feature Importance](img/feature_importance.png)
+
+---
+
+## 🚀 Demo Online
+👉 [(Tambahkan link Streamlit di sini nanti)](https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link)
+
+---
 
 ## ▶️ Cara Menjalankan Project
 
@@ -51,28 +63,6 @@ Model digunakan untuk memprediksi apakah pengguna akan menyukai sebuah lagu berd
     song_recommendation.py
     overview.py
     favorite_song_prediction.py
-
----
-
-## # 🎧 Spotify Song Recommendation Dashboard
-
-Dashboard interaktif berbasis **Machine Learning** untuk:
-- 🎯 Prediksi kesukaan lagu
-- 🎵 Rekomendasi lagu
-- 🔍 Analisis feature importance
-
----
-
-## 📸 Tampilan Dashboard
-![Overview Dashboard](img/overview.png)
-![Prediksi Kesukaan](img/prediksi_kesukaan.png)
-![Rekomendasi Lagu](img/rekomendasi_lagi.png)
-![Feature Importance](img/feature_importance.png)
-
----
-
-## 🚀 Demo Online
-👉 [(Tambahkan link Streamlit di sini nanti)](https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link)
 
 ---
 
