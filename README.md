@@ -64,12 +64,15 @@ Dashboard interaktif berbasis **Machine Learning** untuk:
 ---
 
 ## 📸 Tampilan Dashboard
+![Overview Dashboard](img/overview.png)
+![Prediksi Kesukaan](img/prediksi_kesukaan.png)
+![Rekomendasi Lagu](img/rekomendasi_lagi.png)
 ![Feature Importance](img/feature_importance.png)
 
 ---
 
 ## 🚀 Demo Online
-👉 (Tambahkan link Streamlit di sini nanti)
+👉 [(Tambahkan link Streamlit di sini nanti)](https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link)
 
 ---
 
