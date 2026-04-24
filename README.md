@@ -40,7 +40,7 @@ Model digunakan untuk memprediksi apakah pengguna akan menyukai sebuah lagu berd
 ---
 
 ## 🚀 Demo Online
-👉 [(Tambahkan link Streamlit di sini nanti)](https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link)
+👉 [(G.Drive)](https://drive.google.com/file/d/1Mw5pXBtrdGfu8WHRdJlnGVXiimBV9KoZ/view?usp=drive_link)
 
 ---
 
