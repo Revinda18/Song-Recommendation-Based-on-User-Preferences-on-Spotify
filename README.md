@@ -64,7 +64,7 @@ Dashboard interaktif berbasis **Machine Learning** untuk:
 ---
 
 ## 📸 Tampilan Dashboard
-![Feature Importance](Song-Recommendation-Based-on-User-Preferences-on-Spotify/img/feature_importance.png)
+![Feature Importance](img/feature_importance.png)
 
 ---
 
